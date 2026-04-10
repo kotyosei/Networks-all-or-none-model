@@ -1,1 +1,1 @@
-Notebooks for running simulations.
+The Jupyter Notebook for validation of theoretical results. 
